@@ -1,13 +1,12 @@
 import React from "react";
-// import { FormText } from "react-bootstrap/FormText";
-import {input} from "react"
+import { Form } from "react-bootstrap/Form";
+
 
 const Home = () => {
     return (
         <div className="text-center">
-            <h3>Todo List Sarah</h3>
+            <h3 className="big-title">Todo List Sarah</h3>
             <div>
-               {/* <FormText></FormText> */}
             </div>
         </div>
     )
