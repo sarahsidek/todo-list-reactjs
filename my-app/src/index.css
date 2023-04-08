@@ -10,15 +10,4 @@ body {
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
-} 
-a {
-  text-decoration: none !important;
-}
-
-.big-title {
-  font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-  font-weight: 400;
-  color: tomato;
-  letter-spacing: 1;
-  margin: 10px;
 }
